@@ -1,0 +1,76 @@
+.background {
+    display: block;
+    width: 1280px;
+    height: 946px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background: url("assets/background0.png") no-repeat;
+    box-shadow: 1px 1px 3px #999999;
+
+
+
+
+
+}
+.dale0 {
+    display: block;
+    background: url("assets/dale0.png") no-repeat;
+    width: 184px;
+    height: 234px;
+    position: absolute;
+    left: 750px;
+    top: 250px;
+    margin: 0 auto;
+
+}
+.gadget{
+    display: block;
+    background: url("assets/gadget.png") no-repeat;
+    width: 308px;
+    height: 438px;
+    position: absolute;
+    left: 40px;
+    top: 125px;
+    margin: 0 auto;
+}
+.rockfor{
+    display: block;
+    background: url("assets/rockfor.png") no-repeat;
+    width: 608px;
+    margin: 0 auto;
+    height: 390px;
+    position: absolute;
+    left: -278px;
+    top: 260.987px;
+
+}
+.dale1{
+    display: block;
+    background: url("assets/dale1.png") no-repeat;
+    width: 240px;
+    margin: 0 auto;
+    height: 424px;
+    position: absolute;
+    left: 1278px;
+    top: 444.987px;
+}
+.chip{
+    display: block;
+    background: url("assets/chip.png") no-repeat;
+    width: 288px;
+    margin: 0 auto;
+    height: 486px;
+    position: absolute;
+    left: 200px;
+    top: -40px;
+}
+.vjic{
+    display: block;
+    background: url("assets/vjic.png") no-repeat;
+    width: 212px;
+    margin: 0 auto;
+    height: 296px;
+    position: absolute;
+    left: -60px;
+    top: 245px;
+}
